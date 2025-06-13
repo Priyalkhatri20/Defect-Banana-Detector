@@ -27,7 +27,6 @@ To build a banana quality inspection system that mimics real-world AI-assisted v
 
 ---
 
-## 🖼️ Sample Output
 
 ![Preview](docs/goodvsbad.png)
 
